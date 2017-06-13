@@ -1,11 +1,10 @@
+# Pycharm files
 .idea/
+
+# Notebook files
 .ipynb_checkpoints/
-Human Strategy.pdf
-Human Strategy.tex
-Introduction.pdf
-Introduction.tex
-Matches and Tournaments.pdf
-Matches and Tournaments.tex
-Matches and Tournaments_files/
-Writing a Strategy.pdf
-Writing a Strategy.tex
+
+# Pdf and tex generated to print the notebooks
+*.pdf
+*.tex
+Matches and Tournaments_files/*
