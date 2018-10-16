@@ -9,10 +9,10 @@ Usage:
       -n NAME           The name of the human strategy [default: me]
       -t TURNS          The number of turns [default: 5]
 """
+import random
 
 import axelrod as axl
 from docopt import docopt
-import random
 
 if __name__ == '__main__':
     arguments = docopt(__doc__)
@@ -22,11 +22,9 @@ if __name__ == '__main__':
     turns = int(arguments['-t'])
 
     # create players and match
-    strategies = [s() for s in axl.strategies]
-    random = random.randint(0, 178)
-    opponent = strategies[random]
+    opponent = random.choice(axl.strategies)
     me = axl.Human(name=name)
-    players = [opponent, me]
+    players = [opponent(), me]
 
     # play the match and return winner and final score
     match = axl.Match(players, turns=turns)
