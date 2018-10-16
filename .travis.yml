@@ -1,0 +1,10 @@
+language: python
+python:
+  - "3.6"
+install:
+  - conda env create -f environment.yml
+  - source activate game-python
+
+script:
+
+  - sh run_tests.sh
