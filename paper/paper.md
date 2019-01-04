@@ -21,20 +21,23 @@ bibliography: paper.bib
 Game Theory and Python is an open source, educational tutorial aimed to
 introduce readers to game theory and more specifically to repeated games. The
 tutorial uses the open source library called [Axelrod-Python](https://github.com/Axelrod-Python/Axelrod)
-integrated with Jupyter Notebooks, making this an open source, reproducible and
+and Jupyter Notebooks, making this an open source, reproducible and
 interactive tutorial.
 
 # Statement of Need
 
 Game theory is a field of applied mathematics and an essential tool for
 understanding the outcome of situations where agents with different behaviours
-interact. A real life example of such situation is people choosing between being
+interact. A real life example of such situations is people choosing between being
 selfish or selfless when they interact with others.
 
-In 1950, this very interaction was formulated in a two players game known as the
+% TODO: I think this paragraph could/should be shorter, the statement of need could/should reflect 
+% more that the PD is heavily used in taught GT courses.
+
+In 1950, this interaction was formulated in a two players game known as the
 prisoner's dilemma (PD). The repeated form of the game is called the iterated
 prisoner's dilemma (IPD) and in 1980 it attracted the attention of the scientific
-community. A political scientist called R. Axelrod decided to run a computer tournament
+community. A political scientist called Robert Axelrod decided to run a computer tournament
 of the IPD where strategies (written in computer code) would repeatedly choose between
 selfish and selfless actions. The strategies would decide on their next action using
 the history of the previous interactions. Axelrod's tournament was a success.
@@ -45,11 +48,20 @@ Axelrod's original work as well as other ongoing research work on the topic. Axe
 is an exceptional open source package which follows best practices and has created
 a large active community.
 
+% TODO A paragraph is needed here explaining how particpants can use the resources:
+% 1. in a workshop environment (explain how/what the instructor would be doing) and 
+% 2. alone (explain how the resources could be used
+
+
+% TODO You can include some pedagogic references about the progression in what 
+% is called a "constructive framework". Participants start by reading and *consuming*
+% and then are give the framework to *produce* thus allowing them to fully "learn".
 This tutorial serves as an introduction to the IPD and the notion of strategies
-whilst using Axelrod-Python. Following the tutorial, readers will be able to
+whilst using Axelrod-Python. Following the tutorial, participants will be able to
 reproduce  Axelrod's original tournaments but also create their own unique
 tournaments from a selection of strategies, exceeding 200. Furthermore, readers
-can compose their own ideas of strategies and implement them using Python code.
+can progress their comprehension of the topic by producing strategies and implement 
+them using Python code.
 The new strategies then can be placed in different tournaments in order to
 access their success and weakness.
 
@@ -65,7 +77,7 @@ player in world where you interact with others?
 
 This tutorial was originally formulated to run a game theory workshop at
 [PyCon Namibia 2017](https://na.pycon.org/pycon-namibia-2017/).
-It has attracted attention of the community ever since and has been used to various
+It has attracted attention of the community ever since and has been used in various
 others events.
 
 # Acknowledgements
