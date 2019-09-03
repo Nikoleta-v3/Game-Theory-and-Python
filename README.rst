@@ -30,17 +30,15 @@ Virtual Environment
 
 This repository comes with an `environment.yml` file. The `environment.yml` file
 will allow you to create an Anaconda environment. To do that use the terminal or
-an anaconda prompt and after you have navigated to the repository just type:
+an anaconda prompt and after you have navigated to the repository just type::
 
-```
 $ conda env create -f environment.yml
-```
 
-The environment can be activated by typing:
 
-```
+The environment can be activated by typing::
+
 $ conda activate game-python
-```
+
 
 and notebooks can also run in it. To do that you will have to select (from within
 a running notebook) `Kernel` and under `Change Kernel` select the environment
