@@ -2,8 +2,8 @@ language: python
 python:
   - "3.6"
 before_install:
-  - export DISPLAY=:99.0
   - export MPLBACKEND="agg"
+dist: xenial
 services:
   - xvfb
 install:
