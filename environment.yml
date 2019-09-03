@@ -8,4 +8,5 @@ dependencies:
     - jupyter==1.0.0
     - docopt
     - nbval==0.9.0
+    - fsspec>=0.4.3
 prefix: /home/nikoleta/anaconda3/envs/game-python

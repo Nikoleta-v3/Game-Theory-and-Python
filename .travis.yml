@@ -2,9 +2,10 @@ language: python
 python:
   - "3.6"
 before_install:
-  - export DISPLAY=:99.0
-  - export MPLBACKEND="agg" 
-  - sh -e /etc/init.d/xvfb start
+  - export MPLBACKEND="agg"
+dist: xenial
+services:
+  - xvfb
 install:
   - sudo apt-get update
   # We do this conditionally because it saves us some downloading if the
