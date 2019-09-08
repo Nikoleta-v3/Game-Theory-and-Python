@@ -62,20 +62,19 @@ tournament but also create their own unique tournaments from a selection of
 strategies, exceeding 200. Furthermore, participants will be able to progress
 their comprehension of the topic by producing strategies and implement them
 using Python code. The new strategies then can be placed in different
-tournaments in order to access their success and weakness.
-
-The progression of the tutorial is based on constructive framework. Participants
-will start by following instructions given to them, followed by the participants
+tournaments in order to access their success and weakness. This progression
+of the tutorial is based on constructive framework. Participants
+start by following instructions given to them, followed by the participants
 producing their own strategies and tournament. This will allow them to fully
-understand how to play the game and how to be successful in a world where they
-interact with others.
+the consequences of their decision making in a setting where they interact
+with others.
 
 %TODO references
 
 # Usage
 
 The tutorial can be used in any of the two ways; in a workshop environment or
-followed at home.
+at home.
 
 - In a workshop environment we suggest that the instructor has familiarized
   themselves with the written parts of the tutorial beforehand. For each
@@ -84,7 +83,7 @@ followed at home.
   follow in their own machines. The instructor should encourage the participants
   to try the exercises of each notebook alone or with other participants. Before
   moving to the next notebook the instructor should encourage a discussion
-  amongst everyone regarding the results of the exercises each participant had
+  amongst everyone regarding the results of the exercises each had
   and their interpretation.
 - If the tutorial is being followed at home the written parts of each notebook
   should be read followed by running the tutorial and completing the exercises.
