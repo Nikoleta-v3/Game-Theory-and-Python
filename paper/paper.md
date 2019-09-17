@@ -19,11 +19,11 @@ bibliography: paper.bib
 
 # Summary
 
-Game Theory and Python is an open source, educational tutorial aimed to
+Game Theory and Python is an open source educational tutorial aimed to
 introduce readers to game theory and more specifically to repeated games. The
 tutorial uses the open source library called
 [Axelrod-Python](https://github.com/Axelrod-Python/Axelrod) and [Jupyter
-Notebooks](https://jupyter.org), making this an open source, reproducible and
+Notebooks](https://jupyter.org) making this an open source, reproducible and
 interactive tutorial.
 
 # Statement of Need
@@ -34,8 +34,8 @@ conceptualizing strategies, and before long using equations to formulate the
 interactions between players.
 
 Repeated games are a set of games that are particularly popular in educational
-game theory, and, a specific game that has gain much attention in both research
-(Axelrod1980) and teaching (reference) is the Prisoner's Dilemma. The advantage
+game theory, and a specific game that has gained much attention in both research
+(Axelrod1981) and teaching (reference) is the Prisoner's Dilemma. The advantage
 of studying the Prisoner's Dilemma is that it models situations in which
 self-interest clashes with collective interest, thus it provides a powerful
 framework for illustrating the usage of mathematics in real life decision
