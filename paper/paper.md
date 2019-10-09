@@ -25,7 +25,7 @@ bibliography: paper.bib
 These materials are an open source educational tutorial aimed at introducing
 participants to game theory and more specifically to repeated games. The
 tutorial uses the open source library called
-Axelrod-Python and [Jupyter
+`Axelrod-Python` and [Jupyter
 Notebooks](https://jupyter.org) making this an open source, reproducible and
 interactive tutorial.
 
@@ -35,13 +35,11 @@ Game theory is a field of applied mathematics interested in strategic
 interactions. Game theory itself has a number of sub fields and the one
 considered in this tutorial is the area of repeated games. This has been the
 subject of a lot of research [Axelrod1981] but has also been used extensively as
-an entry to the subject for students at undergraduate level courses. The
+an entry to the subject for students at undergraduate level courses [Brokaw2004], [Knight2015]. The
 advantage of studying the Prisoner's Dilemma is that it models situations in
 which self-interest clashes with collective interest, thus it provides a
 framework for illustrating the usage of mathematics in real life
 decision making.
-
-% TODO a good reference that the PD is heavily used in education.
 
 # Content
 
@@ -54,7 +52,7 @@ tournament of the Iterated Prisoner’s Dilemma where strategies written in
 computer code would repeatedly choose between self and collective interest. The
 strategies would decide on their next action using the history of previous
 interactions and the winner was decided on the average score. The open source
-package Axelrod-Python was created in order to reproduce Axelrod's original work
+package `Axelrod-Python` was created in order to reproduce Axelrod's original work
 but to also serve as an educational and research tool.
 
 Following the tutorial, participants will be able to reproduce Axelrod's
