@@ -8,3 +8,6 @@
 *.pdf
 *.tex
 Matches and Tournaments_files/*
+
+# editors
+.vscode/*
