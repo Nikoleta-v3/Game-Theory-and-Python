@@ -74,15 +74,18 @@ of the Prisoner's Dilemma.
 The tutorial `Game Theory and Python` can be used in a workshop environment or
 through independent learning.
 
-- **Workshop:** The material have been designed for a 2 hours workshop. We
-  suggest that installation (guidelines are given in the
+* **Workshop:** The material have been designed for a 2 hours workshop. A suggested
+timetable is:
+    - 0:00 - 0:15  Installation (guidelines are given in the
   [README](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/README.rst))
-  and [An introduction to game theory and the Iterated Prisoner's
+    - 0:15 - 0:30  [An introduction to game theory and the Iterated Prisoner's
   Dilemma](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/1.%20Introduction.ipynb)
-  are covered within the first half an hour, followed by 25 minutes on [Creating matches and
-  tournaments using Axelrod-Python](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/2.%20Matches%20and%20Tournaments.ipynb) and
-  25 minutes on [Writing strategies and contributing to Axelrod-Python](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/3.%20Writing%20a%20Strategy.ipynb>). Finally, it's advised that 30 minutes are
-  spend on [Playing against strategies of the Iterated Prisoner's Dilemma](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/4.%20Human%20Strategy.ipynb), followed by 10 minutes on closing remarks and wrapping up.
+    - 0:30 - 0:55  [Creating matches and
+  tournaments using Axelrod-Python](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/2.%20Matches%20and%20Tournaments.ipynb)
+    - 0:55 - 1:20  [Writing strategies and contributing to Axelrod-Python](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/3.%20Writing%20a%20Strategy.ipynb>)
+    - 1:20 - 1:50  [Playing against strategies of the Iterated Prisoner's Dilemma](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/4.%20Human%20Strategy.ipynb)
+    - 1:50 - 2:00  Closing remarks and wrapping up
+  
   In a workshop environment we suggest that the instructor has familiarized
   themselves with the written parts of the tutorial beforehand. For each
   notebook it is advised that the instructor gives a mini presentation to the
@@ -93,17 +96,17 @@ through independent learning.
   amongst everyone regarding the results of the exercises each had
   and their interpretation.
 - **Independent Learning**: An independent learner should aim to spend the same
-  amount of time on the material, approximately 2 hours. The learner should aim
-  to spend 30 minutes on installation and on [An introduction to game theory and
-  the Iterated Prisoner's
-  Dilemma](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/1.%20Introduction.ipynb),
-  followed by 30 minutes in each section [Creating matches and tournaments using
-  Axelrod-Python](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/2.%20Matches%20and%20Tournaments.ipynb)
-  and [Writing strategies and contributing to
-  Axelrod-Python](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/3.%20Writing%20a%20Strategy.ipynb>).
-  Finally, 30 minutes should be spend on [Playing against strategies of the
-  Iterated Prisoner's
-  Dilemma](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/4.%20Human%20Strategy.ipynb).
+  amount of time on the material, approximately 2 hours. A suggested
+timetable is:
+    - 0:00 - 0:15  Installation (guidelines are given in the
+  [README](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/README.rst))
+    - 0:15 - 0:30  [An introduction to game theory and the Iterated Prisoner's
+  Dilemma](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/1.%20Introduction.ipynb)
+    - 0:30 - 1:00  [Creating matches and
+  tournaments using Axelrod-Python](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/2.%20Matches%20and%20Tournaments.ipynb)
+    - 1:00 - 1:30  [Writing strategies and contributing to Axelrod-Python](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/3.%20Writing%20a%20Strategy.ipynb>)
+    - 1:30 - 2:00  [Playing against strategies of the Iterated Prisoner's Dilemma](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/4.%20Human%20Strategy.ipynb)
+  
   If the tutorial is being followed by an individual learner, we suggest that
   the learner reads the written parts of each notebook followed by running the
   tutorial and completing the exercises. The individual should take some time to
