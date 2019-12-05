@@ -1,20 +1,19 @@
 ---
-title: "Game Theory and Python: An educational tutorial to game theory and
-repeated games using Python"
+title: "Game Theory and Python: An educational tutorial to game theory and repeated games using Python"
 tags:
-- game theory
-- repeated games
-- prisoner's dilemma
-- axelrod python
+  - game theory
+  - repeated games
+  - prisoner's dilemma
+  - axelrod python
 authors:
-    - name: Nikoleta E. Glynatsi
-    ORCID: 0000-0002-2943-3622
+  - name: Nikoleta E. Glynatsi
+    orcid: 0000-0002-2943-3622
     affiliation: 1
-    - name: Vincent A. Knight
-    ORCID: 0000-0002-4245-0638
+  - name: Vincent A. Knight
+    orcid: 0000-0002-4245-0638
     affiliation: 1
 affiliations:
-    - name: Department of Mathematics, Cardiff University, Senghennydd Rd, Cardiff CF24 4AG
+  - name: Department of Mathematics, Cardiff University, Senghennydd Rd, Cardiff CF24 4AG
     index: 1
 date: 5 December 2019
 bibliography: paper.bib
