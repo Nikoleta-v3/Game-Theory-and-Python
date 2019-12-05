@@ -73,7 +73,7 @@ notebook alone or with other participants. Before moving to the next notebook
 the instructor should encourage a discussion amongst everyone regarding the
 results of the exercises each had and their interpretation.
 
-**Independent Learning:** An independent learner should aim to spend 2 hours on the material.
+**Independent Learning:** An independent learner should aim to spend 2 hour on the material.
 
 Suggested timetable:
 

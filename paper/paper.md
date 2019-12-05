@@ -9,14 +9,14 @@ tags:
 authors:
     - name: Nikoleta E. Glynatsi
     ORCID: 0000-0002-2943-3622
-    affiliation: 1 affiliations:
-    - name: Vincent Knight
+    affiliation: 1
+    - name: Vincent A. Knight
     ORCID: 0000-0002-4245-0638
     affiliation: 1
 affiliations:
     - name: Department of Mathematics, Cardiff University, Senghennydd Rd, Cardiff CF24 4AG
-    index: 1,
-date: some date in 2019
+    index: 1
+date: 5 December 2019
 bibliography: paper.bib
 ---
 
@@ -74,7 +74,7 @@ of the Prisoner's Dilemma.
 The tutorial `Game Theory and Python` can be used in a workshop environment or
 through independent learning.
 
-* **Workshop:** The material have been designed for a 2 hours workshop. A suggested
+* **Workshop:** The material have been designed for a 2 hour workshop. A suggested
 timetable is:
     - 0:00 - 0:15  Installation (guidelines are given in the
   [README](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/README.rst))
