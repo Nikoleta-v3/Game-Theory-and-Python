@@ -1,6 +1,9 @@
 # Pycharm files
 .idea/
 
+# VScode feils
+.vscode/
+
 # Notebook files
 .ipynb_checkpoints/
 
