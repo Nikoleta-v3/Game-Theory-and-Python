@@ -37,9 +37,9 @@ interesting subject that is Game Theory.
 Game theory is a field of applied mathematics interested in strategic
 interactions. Game theory itself has a number of sub fields and the one
 considered in this tutorial is the area of repeated games. Repeated games have
-been the subject of research [Axelrod1981] but have also been used extensively
+been the subject of research [@Axelrod1981] but have also been used extensively
 as an entry to the subject for students at undergraduate level courses
-[Brokaw2004], [Knight2015]. This tutorial focuses on the Iterated Prisoner's
+[@Brokaw2004], [@Knight2015]. This tutorial focuses on the Iterated Prisoner's
 Dilemma. The advantage of studying the Iterated Prisoner's Dilemma is that it
 models situations in which self-interest clashes with collective interest, thus
 it provides a framework for illustrating the usage of mathematics in real life
@@ -49,7 +49,7 @@ decision making.
 
 These materials consist of four tutorials that focus on the Iterated Prisoner's
 Dilemma, the notion of strategies and computer tournaments whilst using
-`Axelrod-Python` [axelrodproject].
+`Axelrod-Python` [@axelrodproject].
 
 In 1980, a political scientist called Robert Axelrod ran a computer
 tournament of the Iterated Prisoner’s Dilemma where strategies written in
@@ -65,9 +65,9 @@ than 200 strategies. Furthermore, participants will be able to progress their
 comprehension of the topic by producing strategies and implement them using
 Python code. The new strategies then can be placed in different tournaments in
 order to access their success and weakness. This progression of the tutorial
-fits within a constructive framework of learning [Weir2009] and, by the nature
+fits within a constructive framework of learning [@Weir2009] and, by the nature
 of participants actively writing the required software, an active learning
-setting [Freeman2014]. Participants with a knowledge of Python will benefit from
+setting [@Freeman2014]. Participants with a knowledge of Python will benefit from
 an understanding of game theory and participants with no knowledge of Python
 will also be introduced to basic programming concepts through the tangible ideas
 of the Prisoner's Dilemma.
