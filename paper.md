@@ -90,9 +90,10 @@ timetable is:
     - 1:50 - 2:00  Closing remarks and wrapping up
   
   In a workshop environment we suggest that the instructor has familiarized
-  themselves with the written parts of the tutorial beforehand. For each
-  notebook it is advised that the instructor gives a mini presentation to the
-  topic followed by them typing out/running the material while the participants
+  themselves with the written parts of the tutorial beforehand. The written parts
+  of each notebook include an introduction to the topic being covered. It is
+  advised that the instructor discusses the introduction to the topic 
+  followed by them typing out/running the material while the participants
   follow in their own machines. The instructor should encourage the participants
   to try the exercises of each notebook alone or with other participants. Before
   moving to the next notebook the instructor should encourage a discussion
