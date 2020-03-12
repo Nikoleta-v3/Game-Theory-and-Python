@@ -30,9 +30,11 @@ interactive tutorial.
 
 # Statement of Need
 
-This tutorial could be used by individuals familiar with Python to start to learn
-Game Theory but could also be used as a pathway to programming through the
-interesting subject that is Game Theory.
+This tutorial is aimed at two groups of individuals:
+
+- those familiar with Python (programmers) who want to start to learn Game Theory,
+-  mathematicians with little or no programming knowledge as a pathway to programming through the interesting
+subject that is Game Theory
 
 Game theory is a field of applied mathematics interested in strategic
 interactions. Game theory itself has a number of sub fields and the one
@@ -90,10 +92,11 @@ timetable is:
     - 1:50 - 2:00  Closing remarks and wrapping up
   
   In a workshop environment we suggest that the instructor has familiarized
-  themselves with the written parts of the tutorial beforehand. For each
-  notebook it is advised that the instructor gives a mini presentation to the
-  topic followed by them typing out/running the material while the participants
-  follow in their own machines. The instructor should encourage the participants
+  themselves with the written parts of the tutorial beforehand. The written parts
+  of each notebook include an introduction to the topic being covered. It is
+  advised that the instructor discusses the introduction to the topic 
+  followed by them typing out/running the material while the participants
+  follow using their own machines. The instructor should encourage the participants
   to try the exercises of each notebook alone or with other participants. Before
   moving to the next notebook the instructor should encourage a discussion
   amongst everyone regarding the results of the exercises each had
