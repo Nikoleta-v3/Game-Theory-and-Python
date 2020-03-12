@@ -95,7 +95,7 @@ timetable is:
   of each notebook include an introduction to the topic being covered. It is
   advised that the instructor discusses the introduction to the topic 
   followed by them typing out/running the material while the participants
-  follow in their own machines. The instructor should encourage the participants
+  follow using their own machines. The instructor should encourage the participants
   to try the exercises of each notebook alone or with other participants. Before
   moving to the next notebook the instructor should encourage a discussion
   amongst everyone regarding the results of the exercises each had
