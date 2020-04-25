@@ -31,9 +31,9 @@ interactive tutorial.
 # Statement of Need
 
 This tutorial is aimed at individuals familiar with Python (programmers) to
-start to learn Game Theory, and is also aimed at mathematicians with little or
+start to learn game theory, and is also aimed at mathematicians with little or
 no programming knowledge as a pathway to programming through the interesting
-subject that is Game Theory
+subject that is game theory.
 
 Game theory is a field of applied mathematics interested in strategic
 interactions. Game theory itself has a number of sub fields and the one
@@ -78,7 +78,7 @@ of the Prisoner's Dilemma.
 The tutorial `Game Theory and Python` can be used in a workshop environment or
 through independent learning.
 
-* **Workshop:** The material have been designed for a 2 hour workshop. A suggested
+- **Workshop:** The material have been designed for a 2 hour workshop. A suggested
 timetable is:
     - 0:00 - 0:15  Installation (guidelines are given in the
   [README](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/README.rst))
@@ -121,7 +121,7 @@ These instructions can also be found in the [README](https://github.com/Nikoleta
 
 # Recent Uses
 
-This tutorial was originally formulated to run a Game Theory workshop at [PyCon
+This tutorial was originally formulated to run a game theory workshop at [PyCon
 Namibia 2017](https://na.pycon.org/pycon-namibia-2017/). It has attracted
 attention of the community ever since and has been used in various others
 events.
