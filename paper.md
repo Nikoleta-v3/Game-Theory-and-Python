@@ -30,10 +30,13 @@ interactive tutorial.
 
 # Statement of Need
 
-This tutorial is aimed at individuals familiar with Python (programmers) to
-start to learn game theory, and is also aimed at mathematicians with little or
-no programming knowledge as a pathway to programming through the interesting
-subject that is game theory.
+We are mathematicians and Python programmers
+with interests in game theory and pedagogy. This tutorial was created as a
+resource for computer workshops and for introducing mathematicians to
+programming. As a result, this tutorial is aimed at individuals familiar with
+Python (programmers) to start to learn game theory, and is also aimed at
+mathematicians with little or no programming knowledge as a pathway to
+programming through the interesting subject that is game theory.
 
 Game theory is a field of applied mathematics interested in strategic
 interactions. Game theory itself has a number of sub fields and the one
