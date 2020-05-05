@@ -36,7 +36,7 @@ introducing mathematicians to programming. As a result, this tutorial is aimed
 at two groups of individuals:
 
 - those familiar with Python (programmers) who want to start to learn game theory,
--  mathematicians with little or no programming knowledge as a pathway to programming through the interesting
+- mathematicians with little or no programming knowledge as a pathway to programming through the interesting
 subject that is game theory
 
 Game theory is a field of applied mathematics interested in strategic
@@ -60,7 +60,7 @@ In 1980, a political scientist called Robert Axelrod ran a computer
 tournament of the Iterated Prisoner’s Dilemma where strategies written in
 computer code would repeatedly choose between self and collective interest. The
 strategies would decide on their next action using the history of previous
-interactions and the winner was decided on the average score. The open source
+interactions and the winner was decided based on the average score. The open source
 package `Axelrod-Python` was created in order to reproduce Axelrod's original work
 but to also serve as an educational and research tool.
 
@@ -82,7 +82,7 @@ of the Prisoner's Dilemma.
 The tutorial `Game Theory and Python` can be used in a workshop environment or
 through independent learning.
 
-- **Workshop:** The material have been designed for a 2 hour workshop. A suggested
+- **Workshop:** The material has been designed for a 2 hour workshop. A suggested
 timetable is:
     - 0:00 - 0:15  Installation (guidelines are given in the
   [README](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/README.rst))
@@ -127,7 +127,7 @@ These instructions can also be found in the [README](https://github.com/Nikoleta
 
 This tutorial was originally formulated to run a game theory workshop at [PyCon
 Namibia 2017](https://na.pycon.org/pycon-namibia-2017/). It has attracted
-attention of the community ever since and has been used in various others
+the attention of the community ever since and has been used in various others
 events.
 
 # Acknowledgements
