@@ -70,7 +70,7 @@ than 200 strategies. Furthermore, participants will be able to progress their
 comprehension of the topic by producing strategies and implement them in
 Python. The new strategies can then be placed in different tournaments in
 order to access their success and weakness. This progression of the tutorial
-fits within a constructive framework of learning [@Weir2009] and, by the nature
+fits within a constructive framework of learning [@Jordan2008] and, by the nature
 of participants actively writing the required software, an active learning
 setting [@Freeman2014]. Participants with knowledge of Python will benefit from
 an understanding of game theory and participants with no knowledge of Python
