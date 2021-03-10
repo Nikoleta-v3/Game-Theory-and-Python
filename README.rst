@@ -8,7 +8,7 @@ Game-Theory-and-Python
 
 This is a repository created to run a workshop on Game Theory using
 the programming language `Python <https://www.python.org/>`_ and more specifically
-an open source software called the `Axelrod Python library <https://github.com/Axelrod-Python/Axelrod>`_.
+an open-source software called the `Axelrod Python library <https://github.com/Axelrod-Python/Axelrod>`_.
 
 The topics being covered in this workshop are the following:
 

@@ -21,11 +21,11 @@ bibliography: paper.bib
 
 # Summary
 
-These materials are an open source educational tutorial aimed at introducing
+These materials are an open-source educational tutorial aimed at introducing
 participants to game theory and more specifically to repeated games. The
-tutorial uses the open source library called
+tutorial uses the open-source library called
 `Axelrod-Python` and [Jupyter
-Notebooks](https://jupyter.org) making this an open source, reproducible and
+Notebooks](https://jupyter.org) making this an open-source, reproducible and
 interactive tutorial.
 
 # Statement of Need
@@ -60,7 +60,7 @@ In 1980, a political scientist called Robert Axelrod ran a computer
 tournament of the Iterated Prisoner’s Dilemma where strategies written in
 computer code would repeatedly choose between self and collective interest. The
 strategies would decide on their next action using the history of previous
-interactions and the winner was decided based on the average score. The open source
+interactions and the winner was decided based on the average score. The open-source
 package `Axelrod-Python` was created in order to reproduce Axelrod's original work
 but to also serve as an educational and research tool.
 
@@ -132,7 +132,7 @@ events.
 
 # Acknowledgements
 
-The tutorial has been made possible due to the existence of the open source package
+The tutorial has been made possible due to the existence of the open-source package
 [Axelrod-Python](https://github.com/Axelrod-Python/Axelrod). We would like to
 express our appreciation to the maintainers of the package as well as
 anyone that has ever contributed to it.
