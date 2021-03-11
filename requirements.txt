@@ -3,5 +3,5 @@ ipython==6.4.0
 jupyter==1.0.0
 docopt
 pytest==6.2.2
-nbval==0.9.5
+nbval==0.9.6
 fsspec>=0.4.3
