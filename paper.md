@@ -42,7 +42,7 @@ subject that is game theory
 Game theory is a field of applied mathematics interested in strategic
 interactions. Game theory itself has a number of subfields and the one
 considered in this tutorial is the area of repeated games. Repeated games have
-been the subject of research [@Axelrod1981] but have also been used extensively
+been the subject of research [@Axelrod1981; @Nowak2006; @Glynatsi2021] but have also been used extensively
 as an entry to the subject for students at undergraduate level courses
 [@Brokaw2004], [@Knight2015]. This tutorial focuses on the Iterated Prisoner's
 Dilemma. The advantage of studying the Iterated Prisoner's Dilemma is that it
