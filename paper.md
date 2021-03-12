@@ -44,7 +44,7 @@ interactions. Game theory itself has a number of subfields and the one
 considered in this tutorial is the area of repeated games. Repeated games have
 been the subject of research [@Axelrod1981; @Nowak2006; @Glynatsi2021] but have also been used extensively
 as an entry to the subject for students at undergraduate level courses
-[@Brokaw2004], [@Knight2015]. This tutorial focuses on the Iterated Prisoner's
+[@Brokaw2004; @Knight2015]. This tutorial focuses on the Iterated Prisoner's
 Dilemma. The advantage of studying the Iterated Prisoner's Dilemma is that it
 models situations in which self-interest clashes with collective interest, thus
 it provides a framework for illustrating the usage of mathematics in real-life
