@@ -1,10 +1,13 @@
 Game-Theory-and-Python
 ----------------------
 
-.. image:: https://travis-ci.org/Nikoleta-v3/Game-Theory-and-Python.svg?branch=master
-    :target: https://travis-ci.org/Nikoleta-v3/Game-Theory-and-Python
-.. image:: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+.. image:: https://img.shields.io/github/license/Naereen/StrapDown.js.svg
+   :target: https://github.com/Nikoleta-v3/Game-Theory-and-Python/master/LICENSE
+
+.. image:: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
     :target: http://makeapullrequest.com
+
+.. image:: https://img.shields.io/github/workflow/status/Nikoleta-v3/Game-Theory-and-Python/ci
 
 This is a repository created to run a workshop on Game Theory using
 the programming language `Python <https://www.python.org/>`_ and more specifically
