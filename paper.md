@@ -8,13 +8,15 @@ tags:
 authors:
   - name: Nikoleta E. Glynatsi
     orcid: 0000-0002-2943-3622
-    affiliation: 1
+    affiliation: "1,2"
   - name: Vincent A. Knight
     orcid: 0000-0002-4245-0638
     affiliation: 1
 affiliations:
   - name: Department of Mathematics, Cardiff University, Senghennydd Rd, Cardiff CF24 4AG
     index: 1
+  - name: Max Planck Institute for Evolutionary Biology, August-Thienemann-Straße 2, 24306 Plön
+    index: 2
 date: 5 December 2019
 bibliography: paper.bib
 ---
