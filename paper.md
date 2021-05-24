@@ -125,8 +125,8 @@ timetable is:
 
 These instructions can also be found in the [README](https://github.com/Nikoleta-v3/Game-Theory-and-Python/blob/master/README.rst).
 Though we recommend that the material can be covered in 2 hours, in both a workshop
-environment and through independent learning, some audience/learners might not
-complete all the exercises. We recommend any facilitator/learner to adjust as
+environment and through independent learning, some audience/learners might need
+more time to complete all the exercises. We recommend any facilitator/learner to adjust as
 necessary.
 
 # Recent Uses
