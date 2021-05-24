@@ -1,6 +1,9 @@
 Game-Theory-and-Python
 ----------------------
 
+.. image:: https://jose.theoj.org/papers/10.21105/jose.00078/status.svg
+   :target: https://doi.org/10.21105/jose.00078
+
 .. image:: https://img.shields.io/github/license/Naereen/StrapDown.js.svg
    :target: https://github.com/Nikoleta-v3/Game-Theory-and-Python/master/LICENSE
 
@@ -8,6 +11,7 @@ Game-Theory-and-Python
     :target: http://makeapullrequest.com
 
 .. image:: https://img.shields.io/github/workflow/status/Nikoleta-v3/Game-Theory-and-Python/ci
+
 
 This is a repository created to run a workshop on Game Theory using
 the programming language `Python <https://www.python.org/>`_ and more specifically
