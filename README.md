@@ -129,6 +129,7 @@ All contributions are welcome! This includes:
 This tutorial has been used in the following event:
 
 * [PyCon Namibia 2017](https://na.pycon.org/pycon-namibia-2017/)
+* [EGAI 2024](https://egai.cc)
 
 Have you used this tutorial at an event? Let us know by [contacting
 me](https://nikoleta-v3.github.io/) or opening a [pull
