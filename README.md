@@ -53,6 +53,8 @@ python3 -m venv game-python
 ```
 
 Then, activate the virtual environment and install the required packages:
+
+```
 source game-python/bin/activate
 pip install -r requirements.txt
 ```
